@@ -1,2 +1,2 @@
-# Example Mod
-This is an example mod for Kotlin.
+# SneakThroughBerries
+Rewrite of https://github.com/Trikzon/Sneak-Through-Berries in Kotlin.
